@@ -1,0 +1,51 @@
+[
+    {
+      "Date": "2023-06-15 14:30:00",
+      "Latitude": 37.7749,
+      "Longitude": -122.4194,
+      "Crime_Type": "Robbery"
+    },
+    {
+      "Date": "2023-06-16 18:15:00",
+      "Latitude": 37.779,
+      "Longitude": -122.4313,
+      "Crime_Type": "Assault"
+    },
+    {
+      "Date": "2023-06-17 02:00:00",
+      "Latitude": 37.7685,
+      "Longitude": -122.42,
+      "Crime_Type": "Burglary"
+    },
+    {
+      "Date": "2023-06-18 21:45:00",
+      "Latitude": 37.765,
+      "Longitude": -122.4231,
+      "Crime_Type": "Theft"
+    },
+    {
+      "Date": "2023-06-19 07:20:00",
+      "Latitude": 37.77,
+      "Longitude": -122.415,
+      "Crime_Type": "Vandalism"
+    },
+    {
+      "Date": "2023-06-20 23:00:00",
+      "Latitude": 37.775,
+      "Longitude": -122.424,
+      "Crime_Type": "Robbery"
+    },
+    {
+      "Date": "2023-06-21 11:30:00",
+      "Latitude": 37.7765,
+      "Longitude": -122.419,
+      "Crime_Type": "Assault"
+    },
+    {
+      "Date": "2023-06-22 04:50:00",
+      "Latitude": 37.773,
+      "Longitude": -122.418,
+      "Crime_Type": "Theft"
+    }
+  ]
+  
